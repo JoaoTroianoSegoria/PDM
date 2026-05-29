@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "Gestao Financeira",
+    "slug": "gestao-financeira",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "gestao-financeira",
+    "userInterfaceStyle": "light",
+    "plugins": [
+      "expo-router"
+    ],
+    "experiments": {
+      "typedRoutes": false
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
